@@ -1,0 +1,16 @@
+{
+  "name": "data-structures-and-algorithms",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "duwonyi <duwonyi@gmail.com> (duwonyi.net)",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/mocha": "^2.2.37",
+    "mocha": "^3.2.0"
+  }
+}
