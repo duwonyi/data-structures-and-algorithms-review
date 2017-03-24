@@ -1,7 +1,7 @@
-const sorting = require('./selectionsort');
+const sorting = require('./insertionsort');
 const assert = require('chai').assert;
 
-describe('Selection Sort', () => {
+describe('Insertion Sort', () => {
   it('sorting array', () => {
     let sorted = [3, 7, 2, 5, 1, 4];
     sorting(sorted);
