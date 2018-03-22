@@ -4,7 +4,6 @@ const insertionSort = require('./insertionsort');
 
 const assert = require('chai').assert;
 
-
 describe('Sorting Algorithm test', () => {
   const expected = [2, 9, 23, 44, 53];
 
